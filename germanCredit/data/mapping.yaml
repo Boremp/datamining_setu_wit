@@ -1,0 +1,56 @@
+A101: (A101) none
+A102: (A102) co-applicant
+A103: (A103) guarantor
+A11: (A11) ... < 0 DM
+A12: (A12) 0 <= ... < 200 DM
+A121: (A121) real estate
+A122: '(A122) if not A121 : building society savings agreement/'
+A123: '(A123) if not A121/A122 : car or other, not in attribute 6'
+A124: (A124) unknown / no property
+A13: (A13) ... >= 200 DM /
+A14: (A14) no checking account
+A141: (A141) bank
+A142: (A142) stores
+A143: (A143) none
+A151: (A151) rent
+A152: (A152) own
+A153: (A153) for free
+A171: (A171) unemployed/ unskilled - non-resident
+A172: (A172) unskilled - resident
+A173: (A173) skilled employee / official
+A174: (A174) management/ self-employed/
+A191: (A191) none
+A192: (A192) yes, registered under the customers name
+A201: (A201) yes
+A202: (A202) no
+A30: (A30) no credits taken/
+A31: (A31) all credits at this bank paid back duly
+A32: (A32) existing credits paid back duly till now
+A33: (A33) delay in paying off in the past
+A34: (A34) critical account/
+A40: (A40) car (new)
+A41: (A41) car (used)
+A410: (A410) others
+A42: (A42) furniture/equipment
+A43: (A43) radio/television
+A44: (A44) domestic appliances
+A45: (A45) repairs
+A46: (A46) education
+A47: (A47) (vacation - does not exist?)
+A48: (A48) retraining
+A49: (A49) business
+A61: (A61) ... < 100 DM
+A62: (A62) 100 <= ... < 500 DM
+A63: (A63) 500 <= ... < 1000 DM
+A64: (A64) .. >= 1000 DM
+A65: (A65) unknown/ no savings account
+A71: (A71) unemployed
+A72: (A72) ... < 1 year
+A73: (A73) 1 <= ... < 4 years
+A74: (A74) 4 <= ... < 7 years
+A75: (A75) .. >= 7 years
+A91: '(A91) male : divorced/separated'
+A92: '(A92) female : divorced/separated/married'
+A93: '(A93) male : single'
+A94: '(A94) male : married/widowed'
+A95: '(A95) female : single'
