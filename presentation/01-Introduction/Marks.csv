@@ -1,0 +1,17 @@
+﻿Student,Module,Deliverable,Weight,Mark
+A,Maths,Practical,40,60
+A,Maths,Exam,60,80
+A,Programming,Project 1,10,50
+A,Programming,Project 2,30,60
+A,Networking,Lab Work,100,80
+B,Maths,Practical,40,60
+B,Maths,Exam,60,80
+B,Programming,Project 1,10,50
+B,Programming,Project 2,30,60
+B,Programming,Project 3,60,75
+B,Networking,Project,100,80
+C,Maths,Exam,60,80
+C,Programming,Project 1,10,50
+C,Programming,Project 2,30,60
+C,Programming,Project 3,60,75
+C,Networking,Lab Work,100,80
